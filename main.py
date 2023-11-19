@@ -4,9 +4,12 @@ import common
 import naive_em
 import em
 
-# X = np.loadtxt("toy_data.txt")
 
-# # K-means
+# FOR MERGE CONFLICT - uncomment next 2 lines
+
+X = np.loadtxt("toy_data.txt")
+
+# K-means
 #
 # cost_array = np.zeros([5,4])
 # cost_array.fill(np.nan) # allocate non array
