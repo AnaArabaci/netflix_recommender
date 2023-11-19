@@ -8,7 +8,8 @@ import em
 
 # X = np.loadtxt("toy_data.txt")
 
-# # K-means
+
+# K-means
 #
 cost_array = np.zeros([5,4])
 cost_array.fill(np.nan) # allocate non array
